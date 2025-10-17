@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "MauAg1985",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143436034?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "MauAg1985",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-17T06:22:30.337Z",
-    "updated_at": "2025-10-17T06:22:30.337Z"
-  }
+    "updated_at": "2025-10-17T06:22:30.337Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "1974556a-6a77-4dfd-b27a-2d06e299a200": {
+      "content": [],
+      "created_at": "2025-10-17T06:22:30.357Z",
+      "created_by": "MauAg1985",
+      "title": "dfmf}ñgkdmf}g",
+      "updated_at": "2025-10-17T06:22:30.357Z",
+      "updated_by": "MauAg1985",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "1974556a-6a77-4dfd-b27a-2d06e299a200"
+  ]
 }
